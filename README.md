@@ -1,2 +1,2 @@
 # DataScience for Udacity
-## Amrita Muthal
+## by Amrita Muthal
